@@ -1,0 +1,1 @@
+--cpu Cortex-M3 -g --apcs=interwork -I "D:\Keil\ARM\INC" -I "D:\Keil\ARM\INC\ST\STM32F10x" --list ".\STM_CPU.lst" --xref -o "STM_CPU.o" --depend "STM_CPU.d" "OS\STM_CPU.asm"
