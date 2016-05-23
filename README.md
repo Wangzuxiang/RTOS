@@ -1,2 +1,0 @@
-# RTOS
-Micro Embeded RTOS
